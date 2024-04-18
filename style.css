@@ -15,7 +15,7 @@ footer {
 .grid-item {
     border: solid 5px black; 
  transform:scale(1);
- transition: 1s linear;   
+ transition:  0.3 linear;   
 }
  .grid-item:hover{transform: scale(1.05);}
 
